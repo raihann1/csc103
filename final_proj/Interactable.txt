@@ -1,0 +1,9 @@
+Door to Head of Slytherin Office:A door to the Head of Slytherin's Office, the problem is that it is locked...:Dungeons:Key to Head of Slytherin Office
+Door to Head of Hufflepuff Office:The is locked and it leads to the Office of the head of Hufflepuff.:Hufflepuff Common Room:Key to Head of Hufflepuff Office
+Door to Head of Gryffindor Office:The Head of Gryffindor's Office. Too bad the door is locked!:Gryffindor Common Room:Key to Head of Gryffindor Office
+Door to Head of Ravenclaw Office:This door is locked if you wish to enter the Head of Ravenclaw's office you may want to find a key:Ravenclaw Tower:Key to Head of Ravenclaw Office
+Door to the Staff Room:This door leads to the staff room where the key to the doors might be.:The Entrance Hall:Key to the Staff Room
+Spot for missing Tapestry:A piece of Tapestry is obviously missing from this wall as there is a clear spot for it:Tapestry Corridor:Fallen Tapestry
+Bookshelf:This shelf seems to be missing a book. Perhaps it may be lost somewhere.:Library:Lost Book
+Magical Device:This strange device seems to be off, though it seems there is some sort of residue, it looks black. You may not want to touch it.:Hospital Wing:Bottle of Unknown Dark Liquid
+Dobby:Dobby is the only creature you've seen since you've gotten here. Dobby seems to be looking for something. Dobby needs to clean. Dobby needs dishes.:Kitchen:Plate

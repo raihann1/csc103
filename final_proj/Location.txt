@@ -1,0 +1,27 @@
+Slytherin Common Room:A room where the symbol for Slytherins was adorned on the chairs and the wall with a dim green light illuminating the room. 
+Slytherin Dormitories:The dorms for the Slytherin students.
+Potion Classroom:A chilly room with jarred animal parts lining the walls.
+Head of Slytherin Office:A gloomy and dimmly lit room with shelves full of jars with animal and plant parts.
+Dungeons:The cold temperture of the dungeons send shivers down your spine.
+Grand Staircase Dungeon:The staircase that connects the dungeons and basement.
+Basement:It seems mostly empty over here.
+Kitchen:The smell of food and warm of the oven warms you ever so slightly.
+Head of Hufflepuff Office:This room is for the Head of Hufflepuff.
+Hufflepuff Common Room:A room with a very earthy warm color palette and warm light which seems to be comming from the ceiling.
+Hufflepuff Dormitories:The dorms for Hufflepuff students.
+Grand Staircase Basement:A staircase which connects the basement to the first floor.
+The Entrance Hall:The main entrance to Hogwarts Castle.
+The Great Hall:The main hall for any gatherings and for when you need some food.
+Staff Room:Why this room was so hard to get into no one will ever know
+Grand Staircase First Floor:A connecting set of stairs from the ground floor to the second floor.
+Hospital Wing:The injured may come here to heal and rest.
+Gryffindor Tower:A tower dedicated to Gryffindor and no other class.
+Head of Gryffindor Office:The head of Gyffindor resides in this room.
+Gryffindor Common Room:A stoney room with an accent of red and sunlight shining through the windows.
+Gryffindor Dormitories:The dorms for Gryffindor students.
+Tapestry Corridor:A hallway lined with beautiful tapestry.
+Grand Staircase To Ravenclaw Tower:The stairs which takes you up to the Ravenclaw tower.
+Ravenclaw Tower:The tower is quite dim and moody with a cold blue light illuminating the tower.
+Library:A grand space with many books are here that cover all types of topics in magic and maybe more.
+Head of Ravenclaw Office:The Office of Ravenclaw's headmaster.
+Ravenclaw Common Room:The room is decorated with the color blue and the image of Ravenclaw.

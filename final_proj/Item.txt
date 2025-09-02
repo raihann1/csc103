@@ -1,0 +1,21 @@
+Snake Piece:🐍:Part of the treasure you were asked to collect. Helps form the Slytherin insignia. There might be others on the other floors.:Slytherin Dormitories
+Honey Badger Piece:🦡:Part of the treasure you were asked to collect. Helps form the Hufflepuff insignia. There might be others on the other floors.:Hufflepuff Dormitories
+Lion Piece:🦁:Part of the treasure you were asked to collect. Helps form the Gryffindor insignia. There might be others on the other floors.:Gryffindor Dormitories
+Raven Piece:🦅:Part of the treasure you were asked to collect. Helps form the Ravenclaw insignia. There might be others on the other floors.:Ravenclaw Dormitories
+Metal Piece:🔩:Part of the treasure you were asked to collect. Helps form the Hogwarts emblem.:Staff Room
+Red Piece:🔴:Part of the treasure you were asked to collect. Helps form the Gryffindor insignia.:The Head of Gryffindor's Office
+Green Piece:🧩:Part of the treasure you were asked to collect. Helps form the Slytherin insignia.:The Head of Slytherin's Office
+Blue Piece:🟦:Part of the treasure you were asked to collect. Helps form the Ravenclaw insignia.:The Head of Ravenclaw's Office
+Gold Piece:🟡:Part of the treasure you were asked to collect. Helps form the Hufflepuff insignia.:The Head of Hufflepuff's Office
+Patterned Piece:🎲:Part of the treasure you were asked to collect. Helps form the Hogwarts emblem.:Potion Classroom
+Key to the Staff Room:🗝️:Gifted from interactable. A key that unlocks the Staff room.:Interactable gift.
+Key to Head of Gryffindor Office:🗝️:A key that unlocks the Head of Gryffindor's office, You remember seeing that animal on the floor with the tapestry:Potion Classroom
+Key to Head of Hufflepuff Office:🗝️:A key that unlocks the Head of Hufflepuff's office, it should be near the kitchen.:Staff Room
+Key to Head of Ravenclaw Office:🗝️:A key that unlocks the Head of Ravenclaw's office, it might be near the top of the school:Staff Room
+Key to Head of Slytherin Office:🗝️:A key that unlocks the Head of Slytherin's office, this key feels cold like the dungeons.:Library
+Bottle of Unknown Dark Liquid:🍾:What is in this bottle? You may not want to find out. Maybe a nurse can help you out it is a school after all.:Gift
+Plate:🍽️:A plate that's been misplaced, maybe see if you could find the kitchen. It should be near the Hufflepuff Dorms.
+:Will be Set in Game
+Fallen Tapestry:🖼️:A beautiful piece of tapestry that fell on your head for some reason. There must be a place for this somewhere in this school:Gift
+Lost Book:📕:A book that has been left behind maybe you can bring it back to where it belongs. There should be a library in a wizard school after all.:Gift
+Book of Spells:📖:A book of spells that the students of Hogwarts use. Perhaps this may come in handy if you encounter a stranger. List of spells; avada kedavra, expelliarmus, stupefy, accio, expulso, aguamenti, aberto, apparate, wingardium leviosa, reparo, protego, lumos, nox:Library
