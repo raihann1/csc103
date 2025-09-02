@@ -17,6 +17,8 @@ Ascii art from https://emojicombos.com/
 
 For best viewing experience, please make the console full-screen. Enjoy!
 The game is designed to last 10-20 minutes.
+
+Created by Raihan & Andrew for CSc103 Fall 2024 final project.
 */
 
 #include <unistd.h>
